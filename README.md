@@ -1,1 +1,1 @@
-# Dio_Microsoft_Azure_AI900_Fundamentals
+# Neste Bootcamp iremos explorar [aplataforma](https://portal.azure.com/) do Azure LAB 
